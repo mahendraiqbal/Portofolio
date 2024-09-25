@@ -36,7 +36,13 @@ const projects = [
     id: 6, 
     title: 'Mobile App E-Book Platform', 
     description: 'Created a cross-platform mobile app using Flutter. You can download at Play Store "Troya Academic Platform"',
-    link: 'hhttps://gitlab.com/troya-academic-platform/tap-student-android'
+    link: 'https://gitlab.com/troya-academic-platform/tap-student-android'
+  },
+  { 
+    id: 7, 
+    title: 'Motorcycle Management Application', 
+    description: 'Created a cross-platform mobile app using React Native',
+    link: 'https://github.com/mahendraiqbal/PKB'
   },
 ];
 

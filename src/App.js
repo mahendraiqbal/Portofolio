@@ -64,7 +64,7 @@ const Portfolio = () => {
             {darkMode ? <Sun size={24} /> : <Moon size={24} />}
           </button>
           <h1 className="text-4xl font-bold mb-2 animate-fade-in">Muhammad Iqbal Firdaus Mahendra</h1>
-          <p className={`text-xl ${darkMode ? 'text-gray-300' : 'text-gray-600'} animate-fade-in`}>Middle Software Engineer</p>
+          <p className={`text-xl ${darkMode ? 'text-gray-300' : 'text-gray-600'} animate-fade-in`}>Software Engineer</p>
           <div className="flex justify-center space-x-4 mt-4">
             <a href="https://github.com/mahendraiqbal" target="_blank" rel="noopener noreferrer" className={`${darkMode ? 'text-gray-300 hover:text-white' : 'text-gray-400 hover:text-gray-500'} transition-colors duration-200`}>
               <Github size={24} />
@@ -81,7 +81,7 @@ const Portfolio = () => {
         <section className="mb-12 animate-fade-in">
           <h2 className={`text-2xl font-semibold mb-4 ${darkMode ? 'text-gray-100' : 'text-gray-900'}`}>About Me</h2>
           <p className={darkMode ? 'text-gray-300' : 'text-gray-700'}>
-          Software Engineer with experience in Javascript, PHP dan Dart. 
+          Software Engineer with experience in Javascript, PHP and Dart. 
           I have developed a strong foundation in both frontend and backend. 
           My expertise includes building dynamic web applications with Javascript and PHP also using Dart and Javascript to build Android Application.
           </p>
